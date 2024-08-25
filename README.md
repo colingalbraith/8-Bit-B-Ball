@@ -1,6 +1,6 @@
 # 8-Bit B-Ball
 
-**8-Bit B-Ball**, a nostalgic journey back to the golden era of arcade basketball games. Whether you're a die-hard fan of arcade sports games or just looking for a quick basketball fix, **8-Bit B-Ball** promises to deliver fast-paced action, charming pixel art, and a retro soundtrack that'll transport you straight back to the arcades of the '80s and '90s.
+**8-Bit B-Ball**is a nostalgic journey back to the golden era of arcade basketball. Whether you're a die-hard fan of sports games or just looking for a quick basketball fix, **8-Bit B-Ball** promises to deliver fast-paced action, charming pixel art, and a retro soundtrack that'll transport you straight back to the arcades of the '80s and '90s.
 
 Check out the trailer:
 
